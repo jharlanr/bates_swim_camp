@@ -9,3 +9,6 @@ second iteration of benchmark results sheets, this puts whole week-worth of benc
 
 # benchmarks_greener.py
 third iteration; simply adds in a 'heatsheet' tab to the spreadsheets - something to print out and paste on the wall so the kids know where they're going, everything else the same.  spits out benchmark_greener_wk1_garnet.xlsx (just an example - wk and group could change)
+
+# section_assignments files
+code pulls from these files to create the spreadsheets
